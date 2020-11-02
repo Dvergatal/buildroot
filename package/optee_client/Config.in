@@ -1,0 +1,6 @@
+config BR2_PACKAGE_OPTEE_CLIENT
+    bool "optee_client"
+    help
+      Non-secure side implementation of the OP-TEE project making up the client library and tee-supplicant.
+
+      https://github.com/etienne-lms/optee_client/tree/sks-to-pkcs11
