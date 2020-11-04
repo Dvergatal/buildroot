@@ -3,7 +3,7 @@ GSTREAMER1_ROCKCHIP_SITE = $(TOPDIR)/../external/gstreamer-rockchip
 GSTREAMER1_ROCKCHIP_VERSION = master
 GSTREAMER1_ROCKCHIP_SITE_METHOD = local
 else
-GSTREAMER1_ROCKCHIP_SITE = "git://github.com/rockchip-linux/gstreamer-rockchip.git"
+GSTREAMER1_ROCKCHIP_SITE = "git://github.com/Dvergatal/gstreamer-rockchip.git"
 GSTREAMER1_ROCKCHIP_VERSION = master
 GSTREAMER1_ROCKCHIP_SITE_METHOD = git
 GSTREAMER1_ROCKCHIP_GIT_SUBMODULES = YES

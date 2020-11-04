@@ -6,4 +6,4 @@ config BR2_PACKAGE_GSTREAMER1_ROCKCHIP
 	  GStreamer Rockchip offers the hardware accleration decoder/encoder
           for Rockchip Platform.
 
-          https://github.com/rockchip-linux/gstreamer-rockchip
+          https://github.com/Dvergatal/gstreamer-rockchip
