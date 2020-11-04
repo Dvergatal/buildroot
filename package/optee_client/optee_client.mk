@@ -4,7 +4,7 @@
 #
 ################################################################################
 
-OPTEE_CLIENT_VERSION = f2a27ab40c1613c60f8ae25cab4b695f773457ed
+OPTEE_CLIENT_VERSION = 3fdc84987b6581a609ba583bbdc74bb28cc388b1
 OPTEE_CLIENT_SITE = $(call github,Dvergatal,optee_client,$(OPTEE_CLIENT_VERSION))
 
 OPTEE_CLIENT_LICENSE = GPLv2
